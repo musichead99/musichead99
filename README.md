@@ -1,5 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeongGu%20Jeongrender&fontSize=90)
+  
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=SeongGu%20Jeong&fontSize=90&fontColor=FFFFFF)
 
 [![musichead99's GitHub stats](https://github-readme-stats.vercel.app/api?username=musichead99)](https://github.com/musichead99/github-readme-stats)
 </div>
