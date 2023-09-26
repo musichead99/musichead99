@@ -1,4 +1,9 @@
+<div align="center">
 ### Hi there 👋
+
+
+[![musichead99's GitHub stats](https://github-readme-stats.vercel.app/api?username=musichead99)](https://github.com/musichead99/github-readme-stats)
+</div>
 
 <!--
 **musichead99/musichead99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
