@@ -79,21 +79,21 @@
    * 기간 : 2021.03 ~ 2021.06(3학년 1학기)
    * 참여 인원 : 1
    * CPU의 여러 스케쥴링 정책을 시뮬레이션하는 스케쥴링 시뮬레이터 입니다.
-   * 링크 :
+   * 링크 : https://github.com/musichead99/SchedulingSimulator_2021
      
 ### 허프만 코딩 프로그램
   * 사용 언어 : ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   * 기간 : 2020.09 ~ 2020.12(2학년 2학기)
   * 참여 인원 : 1
   * 힙과 이진트리를 사용해 허프만 코딩을 진행해 평문을 암호화하는 프로젝트 입니다.
-  * 링크 :
+  * 링크 : https://github.com/musichead99/HuffmanCode_2020
      
 ### Linux 쉘 프로그램
   * 사용 언어 : ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   * 기간 : 2020.09 ~ 2020.12(2학년 2학기)
   * 참여 인원 : 1
   * 리눅스의 명령어 해석기인 Shell을 System call을 사용해 개발하는 프로젝트 입니다.
-  * 링크 :
+  * 링크 : https://github.com/musichead99/mysh_2020
 
 ### 캐시 시뮬레이터
   * 사용 언어 : ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
